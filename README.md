@@ -12,3 +12,4 @@ xn--comindex-634g.jp
 xn--govindex-634g.biz
  IDN domain: Mixed Script
 ```
+
