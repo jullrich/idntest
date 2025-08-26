@@ -1,4 +1,4 @@
-* Testing IDN Domains
+# Testing IDN Domains
 
 just pass the domains one line at a time on stdin
 ```
